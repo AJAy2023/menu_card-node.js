@@ -1,0 +1,10 @@
+
+1. install express js 
+1 . make another file with name of db.js 
+4. make another folder with the name of model and desing the shcema of the menu card 
+
+5. after the making the schema  make some get and post methods and write some logic  ** imp*** : -  'dont forget to add body parse bcz it will store the data and and give the result  '
+6. exports all the file in    '//  script.js file'
+
+
+
